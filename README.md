@@ -1,7 +1,11 @@
 You can either use VGamepad-Server or the new version of PCGameConsole to connect your VGamepad to your PC. After installing the server-side app, use the shown IP (find this IP in the Settings menu on PCGameConsole software) and enter it in your VGamepad app on your phone. You are also required to set a password to secure the communication between your VGamepad App and your PC.
 
 
+
+
 Puede usar VGamepad-Server o la nueva versión de PCGameConsole para conectar su VGamepad a su PC. Después de instalar la aplicación del lado del servidor, use la IP que se muestra (encuentre esta IP en el menú Configuración en el software PCGameConsole) e ingrésela en su aplicación VGamepad en su teléfono. También debe establecer una contraseña para asegurar la comunicación entre su aplicación VGamepad y su PC.
+
+
 
 
 می توانید VGamepad-Server یا نسخه جدید PCGameConsole را برای اتصال VGamepad به رایانه شخصی خود استفاده کنید. پس از نصب برنامه سمت سرور ، از IP نشان داده شده استفاده کنید (IP را در نرم افزارPCGameConsole درقسمت تنظیمات پیدا کنید) و آن را در برنامه VGamepad گوشی خود وارد کنید. همچنین برای برقراری ارتباط بین برنامه VGamepad و رایانه شخصی خود ، باید یک رمزعبور تنظیم کنید.
