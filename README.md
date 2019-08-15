@@ -1,6 +1,6 @@
 English
 
-Find Privacy Policy at the end of document.
+Find "Privacy Policy" & "Terms and Conditions" at the end of this document.
 
 IT'S TIME TO INSTALL THE SERVER-SIDE SOFTWARE ON YOUR PC. You can either use VGamepad-Server or the new version of PCGameConsole (https://github.com/PJSoftCo/PCGameConsole) to connect your VGamepad to your PC. After installing the server-side app, use the shown IP (find this IP in the Settings menu on PCGameConsole software) and enter it in your VGamepad app on your phone. You are also required to set a password to secure the communication between your VGamepad App and your PC. VGamepad converts your phone into a wireless Xbox or Playstation controller with almost all the features including the shocks feedback available on IOS and Android devices.
 
@@ -62,3 +62,7 @@ If you have any questions about this Privacy Policy, please contact us:
 By email: pjsoftco@outlook.com
 
 By visiting this page on our website: https://github.com/PJSoftCo/VGamepad
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Terms and Conditions
+https://app.termly.io/document/terms-of-use-for-website/538e4813-8796-44c1-8821-93a52ef5c2b7
