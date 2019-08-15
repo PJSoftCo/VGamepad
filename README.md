@@ -48,6 +48,7 @@ This page informs you of our policies regarding the collection, use, and disclos
 We do not collect any information from the App for any purpose. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
 Changes To This Privacy Policy
+
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
@@ -55,7 +56,9 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 Contact Us
+
 If you have any questions about this Privacy Policy, please contact us:
 
 By email: pjsoftco@outlook.com
+
 By visiting this page on our website: https://github.com/PJSoftCo/VGamepad
