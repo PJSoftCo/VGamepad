@@ -10,7 +10,7 @@ IT'S TIME TO INSTALL THE SERVER-SIDE SOFTWARE ON YOUR PC. You can either use VGa
 
 Spanish
 
-ES HORA DE INSTALAR EL SOFTWARE DEL LADO DEL SERVIDOR EN SU PC. Puede usar VGamepad-Server o la nueva versión de PCGameConsole (https://github.com/PJSoftCo/PCGameConsole) para conectar su VGamepad a su PC. Después de instalar la aplicación del lado del servidor, use la IP que se muestra (encuentre esta IP en el menú Configuración en el software PCGameConsole) e ingrésela en su aplicación VGamepad en su teléfono. También debe establecer una contraseña para asegurar la comunicación entre su aplicación VGamepad y su PC. VGamepad convierte su teléfono en un controlador inalámbrico Xbox o Playstation con casi todas las características, incluidas las respuestas de descargas disponibles en dispositivos IOS y Android. Se pueden conectar varios controladores al programa del lado del servidor simultáneamente
+ES HORA DE INSTALAR EL SOFTWARE DEL LADO DEL SERVIDOR EN SU PC. Puede usar VGamepad-Server o la nueva versión de PCGameConsole (https://github.com/PJSoftCo/PCGameConsole) para conectar su VGamepad a su PC. Después de instalar la aplicación del lado del servidor, use la IP que se muestra (encuentre esta IP en el menú Configuración en el software PCGameConsole) e ingrésela en su aplicación VGamepad en su teléfono. También debe establecer una contraseña para asegurar la comunicación entre su aplicación VGamepad y su PC. VGamepad convierte su teléfono en un controlador inalámbrico Xbox o Playstation con casi todas las características, incluidas las respuestas de descargas disponibles en dispositivos IOS y Android. Se pueden conectar varios controladores al programa del lado del servidor simultáneamente.
 
 
 
