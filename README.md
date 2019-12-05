@@ -6,6 +6,7 @@ For video instruction, click the youtube link at the top of the page.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 What's new:
+- PCGameConsole V4.6 - Better Cursor Navigation 12-04-2019
 - VGamepad-Server V2.0 - Bug fixes 11-04-2019
 - PCGameConsole V4.5 - Bug fixes 11-04-2019
 - PCGameConsole V4.0 - Steam Games Compatibility
