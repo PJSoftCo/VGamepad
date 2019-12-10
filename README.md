@@ -4,6 +4,8 @@ Find "Privacy Policy" & "Terms and Conditions" at the end of this document.
 
 For video instruction, click the youtube link at the top of the page.
 
+Follow us on Facebook/Instagram/youtube for latest updates, search for pjsoftco
+
 ----------------------------------------------------------------------------------------------------------------------------------
 What's new:
 - PCGameConsole V4.6 - Better Cursor Navigation 12-04-2019
