@@ -8,6 +8,7 @@ Follow us on Facebook/Instagram/youtube for latest updates, search for pjsoftco
 
 ----------------------------------------------------------------------------------------------------------------------------------
 What's new:
+- PCGameConsole V4.7 - Cover art search fixed 02-05-2020
 - PCGameConsole V4.6 - Better Cursor Navigation 12-04-2019
 - VGamepad-Server V2.0 - Bug fixes 11-04-2019
 - PCGameConsole V4.5 - Bug fixes 11-04-2019
