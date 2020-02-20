@@ -8,6 +8,8 @@ Follow us on Facebook/Instagram/youtube for latest updates, search for pjsoftco
 
 ----------------------------------------------------------------------------------------------------------------------------------
 What's new:
+- VGamepad-Server V3.1 - Added update-notifier 02-19-2020
+- PCGameConsole V5.0 - Major enhancements/Added update-notifier 02-19-2020
 - VGamepad-Server V3.0 - Support for new iPhones without 3D touch (Joysticks response fixed) 02-17-2020
 - PCGameConsole V4.9 - Support for new iPhones without 3D touch (Joysticks response fixed) 02-17-2020
 - PCGameConsole V4.8 - Faster load 02-14-2020
