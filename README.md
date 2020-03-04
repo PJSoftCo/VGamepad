@@ -8,6 +8,7 @@ Follow us on Facebook/Instagram/youtube for latest updates, search for pjsoftco
 
 ----------------------------------------------------------------------------------------------------------------------------------
 What's new:
+- PCGameConsole V5.2 - Invalid culture name fix 03-03-2020
 - PCGameConsole V5.1 - Support the new VGamepad version/Fix for android devices 02-29-2020
 - VGamepad-Server V3.2 - Support the new VGamepad version/Fix for android devices 02-29-2020
 - VGamepad-Server V3.1 - Added update-notifier 02-19-2020
