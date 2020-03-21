@@ -8,6 +8,8 @@ Follow us on Facebook/Instagram/youtube for latest updates, search for pjsoftco
 
 ----------------------------------------------------------------------------------------------------------------------------------
 What's new:
+- PCGameConsole V5.4 - Speed optimization/Bug fixes 03-20-2020
+- VGamepad-Server V3.4 - Speed optimization/Bug fixes 03-20-2020
 - PCGameConsole V5.3 - Excessive shock feedback fixed/Optimization 03-06-2020
 - VGamepad-Server V3.3 - Excessive shock feedback fixed/Optimization 03-06-2020
 - PCGameConsole V5.2 - Invalid culture name fix 03-03-2020
