@@ -8,6 +8,7 @@ Follow us on Facebook/Instagram/youtube for latest updates, search for pjsoftco
 
 ----------------------------------------------------------------------------------------------------------------------------------
 What's new:
+- PCGameConsole V5.6 - Performance optimization 04-07-2020
 - PCGameConsole V5.5 - Performance optimization 03-26-2020
 - VGamepad-Server V3.5 - Performance optimization 03-26-2020
 - PCGameConsole V5.4 - Speed optimization/Bug fixes 03-20-2020
