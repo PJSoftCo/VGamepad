@@ -2,7 +2,7 @@ Please open this page on your laptop or PC: github.com/PJSoftCo/VGamepad
 
 Find "Privacy Policy" & "Terms and Conditions" at the end of this document.
 
-For video instruction, click the youtube link at the top of the page.
+For video instruction, click the YouTube link at the top of the page.
 
 Follow us on Facebook/Instagram/YouTube for the latest updates, search for 'pjsoftco'.
 
