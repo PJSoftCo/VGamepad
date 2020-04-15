@@ -1,7 +1,7 @@
 Please open this page on your laptop or PC: github.com/PJSoftCo/VGamepad
 
-************ PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN) ************
-******************** AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION ********************
+****** PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN) ******
+************ AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION ************
 
 Find "Privacy Policy" & "Terms and Conditions" at the end of this document.
 
