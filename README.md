@@ -11,8 +11,8 @@ Follow us on Facebook/Instagram/YouTube for the latest updates, search for 'pjso
 
 ----------------------------------------------------------------------------------------------------------------------------------
 What's new:
-- PCGameConsole V5.7 - Continuous touch for A/B/X/Y or equivalent PS buttons. 04-26-2020
-- VGamepad-Server V3.7 - Continuous touch for A/B/X/Y or equivalent PS buttons. 04-26-2020
+- PCGameConsole V5.7 - Continuous touch for A/B/X/Y or equivalent PS buttons 04-26-2020
+- VGamepad-Server V3.7 - Continuous touch for A/B/X/Y or equivalent PS buttons 04-26-2020
 - PCGameConsole V5.6 - Performance optimization 04-07-2020
 - VGamepad-Server V3.6 - Performance optimization 04-07-2020
 - PCGameConsole V5.5 - Performance optimization 03-26-2020
