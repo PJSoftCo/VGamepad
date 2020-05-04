@@ -19,18 +19,6 @@ What's new:
 - VGamepad-Server V3.7 - Continuous touch for A/B/X/Y or equivalent PS buttons 04-26-2020
 - PCGameConsole V5.4 - Speed optimization/Bug fixes 03-20-2020
 - VGamepad-Server V3.4 - Speed optimization/Bug fixes 03-20-2020
-- PCGameConsole V5.2 - Invalid culture name fix 03-03-2020
-- PCGameConsole V5.1 - Support the new VGamepad version/Fix for android devices 02-29-2020
-- VGamepad-Server V3.2 - Support the new VGamepad version/Fix for android devices 02-29-2020
-- VGamepad-Server V3.1 - Added update-notifier 02-19-2020
-- PCGameConsole V5.0 - Major enhancements/Added update-notifier 02-19-2020
-- VGamepad-Server V3.0 - Support for new iPhones without 3D touch (Joysticks response fixed) 02-17-2020
-- PCGameConsole V4.9 - Support for new iPhones without 3D touch (Joysticks response fixed) 02-17-2020
-- PCGameConsole V4.8 - Faster load 02-14-2020
-- PCGameConsole V4.7 - Cover art search fixed 02-05-2020
-- PCGameConsole V4.6 - Better Cursor Navigation 12-04-2019
-- VGamepad-Server V2.0 - Bug fixes 11-04-2019
-- PCGameConsole V4.5 - Bug fixes 11-04-2019
 - PCGameConsole V4.0 - Steam Games Compatibility
 ----------------------------------------------------------------------------------------------------------------------------------
 
