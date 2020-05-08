@@ -85,7 +85,7 @@ VGamepad ("us", "we", or "our") operates the VGamepad mobile application (the "S
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We do not collect any information from the App for any purpose. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+We do not collect any information from the App or Server-Side software for any purpose. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
 Changes To This Privacy Policy
 
