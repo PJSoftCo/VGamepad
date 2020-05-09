@@ -23,6 +23,8 @@ Follow us on Facebook/Instagram/YouTube for the latest updates, search for 'pjso
 
 ----------------------------------------------------------------------------------------------------------------------------------
 What's new:
+- PCGameConsole V6.0 - Smoother Control 05-09-2020
+- VGamepad-Server V4.0 - Smoother Control 05-09-2020
 - PCGameConsole V5.9 - Better IP detection/Minor fixes 05-02-2020
 - VGamepad-Server V3.9 - Better IP detection/Minor fixes 05-02-2020
 - PCGameConsole V5.8 - Optimization 04-29-2020
