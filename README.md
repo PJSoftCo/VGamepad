@@ -12,6 +12,8 @@ Free: https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree
 
 Paid: https://play.google.com/store/apps/details?id=com.companyname.VGamepad
 
+******Uninstall the old version and re-install if you are updating the server-side software******
+
 ****** PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN) ******
 ************ AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION ************
 
