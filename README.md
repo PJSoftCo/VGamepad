@@ -24,9 +24,10 @@ Follow us on Facebook/Instagram/YouTube for the latest updates, search for 'pjso
 
 ----------------------------------------------------------------------------------------------------------------------------------
 What's new:
+- PCGameConsole V6.4 - Performance optimization 07-10-2020
+- VGamepad-Server V4.2 - Performance optimization 07-10-2020
 - PCGameConsole V6.3 - Game list not including small files fixed/Mouse cursor lock issue fixed 06-28-2020
 - PCGameConsole V6.2 - Game Mode feature added/Optimization 06-09-2020
-- VGamepad-Server V4.1 - Optimization 06-09-2020
 - PCGameConsole V6.0 - Smoother Control 05-09-2020
 - VGamepad-Server V4.0 - Smoother Control 05-09-2020
 - PCGameConsole V5.9 - Better IP detection/Minor fixes 05-02-2020
