@@ -14,7 +14,7 @@ Paid: https://play.google.com/store/apps/details?id=com.companyname.VGamepad
 
 **PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN)**
 
-**AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION **
+**AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION**
 
 **Find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
 
