@@ -1,4 +1,4 @@
-Please open this page on your laptop or PC: github.com/PJSoftCo/VGamepad
+Please visit this page on your PC: github.com/PJSoftCo/VGamepad
 
 **IOS**
 
