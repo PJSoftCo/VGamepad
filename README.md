@@ -20,7 +20,7 @@ Paid: https://play.google.com/store/apps/details?id=com.companyname.VGamepad
 
 For video instruction, click the YouTube link at the top of the page.
 
-Follow us on Facebook/Instagram/YouTube for the latest updates, search for 'pjsoftco'.
+Follow us on TikTok/Facebook/Instagram/YouTube for the latest updates, search for 'pjsoftco'.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
