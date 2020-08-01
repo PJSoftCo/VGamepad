@@ -32,12 +32,8 @@ Follow us on Facebook/Instagram/YouTube for the latest updates, search for 'pjso
 - VGamepad-Server V4.0 - Smoother Control 05-09-2020
 - PCGameConsole V5.9 - Better IP detection/Minor fixes 05-02-2020
 - VGamepad-Server V3.9 - Better IP detection/Minor fixes 05-02-2020
-- PCGameConsole V5.8 - Optimization 04-29-2020
-- VGamepad-Server V3.8 - Optimization 04-29-2020
 - PCGameConsole V5.7 - Continuous touch for A/B/X/Y or equivalent PS buttons 04-26-2020
 - VGamepad-Server V3.7 - Continuous touch for A/B/X/Y or equivalent PS buttons 04-26-2020
-- PCGameConsole V5.4 - Speed optimization/Bug fixes 03-20-2020
-- VGamepad-Server V3.4 - Speed optimization/Bug fixes 03-20-2020
 - PCGameConsole V4.0 - Steam Games Compatibility
 ----------------------------------------------------------------------------------------------------------------------------------
 
