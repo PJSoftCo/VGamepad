@@ -4,15 +4,15 @@ Please visit this page on your PC: github.com/PJSoftCo/VGamepad
 
 **IOS**
 
-Free: https://apps.apple.com/app/id1477007195
+[Free](https://apps.apple.com/app/id1477007195)
 
-Paid: https://apps.apple.com/app/id1454180100
+[Paid](https://apps.apple.com/app/id1454180100)
 
 **Android**
 
-Free: https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree
+[Free](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
 
-Paid: https://play.google.com/store/apps/details?id=com.companyname.VGamepad
+[Paid](https://play.google.com/store/apps/details?id=com.companyname.VGamepad)
 
 **PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN)**
 
@@ -109,5 +109,4 @@ By email: pjsoftco@outlook.com
 By visiting this page on our website: https://github.com/PJSoftCo/VGamepad
 
 --------------------------------------------------------------------------------------------------------------------------------------
-**Terms and Conditions**
-https://app.termly.io/document/terms-of-use-for-website/538e4813-8796-44c1-8821-93a52ef5c2b7
+[**Terms and Conditions**](https://app.termly.io/document/terms-of-use-for-website/538e4813-8796-44c1-8821-93a52ef5c2b7)
