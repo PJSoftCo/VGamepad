@@ -18,7 +18,7 @@ Please visit this page on your PC: github.com/PJSoftCo/VGamepad
 
 For video instruction, click the YouTube link at the top of the page.
 
-Follow us on [TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) for the latest updates, search for 'pjsoftco'.
+Follow us on [TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) for the latest updates.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
