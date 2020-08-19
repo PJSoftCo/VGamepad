@@ -1,4 +1,4 @@
-<iframe src="https://github.com/sponsors/PJSoftCo/button" title="Sponsor PJSoftCo" height="35" width="116" style="border: 0;"></iframe>
+[Become a sponser](https://github.com/sponsors/PJSoftCo)
 
 Please visit this page on your PC: github.com/PJSoftCo/VGamepad
 
