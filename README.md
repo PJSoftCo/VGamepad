@@ -1,4 +1,4 @@
-[Become a sponser](https://github.com/sponsors/PJSoftCo)
+[Become a sponsor](https://github.com/sponsors/PJSoftCo)
 
 Please visit this page on your PC: github.com/PJSoftCo/VGamepad
 
