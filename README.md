@@ -1,5 +1,3 @@
-[Become a sponsor](https://github.com/sponsors/PJSoftCo)
-
 Please visit this page on your PC: github.com/PJSoftCo/VGamepad
 
 **IOS**
@@ -19,6 +17,8 @@ Please visit this page on your PC: github.com/PJSoftCo/VGamepad
 [YouTube Video Instruction](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw)
 
 Follow us on [TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) for the latest updates.
+
+[Become a sponsor](https://github.com/sponsors/PJSoftCo)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
