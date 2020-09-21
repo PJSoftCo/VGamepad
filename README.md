@@ -1,5 +1,3 @@
-Please visit this page on your PC: github.com/PJSoftCo/VGamepad
-
 **IOS**
 
 [Free](https://apps.apple.com/app/id1477007195) / [Paid](https://apps.apple.com/app/id1454180100)
