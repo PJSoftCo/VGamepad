@@ -12,7 +12,7 @@
 
 **Find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
 
-[YouTube Video Instruction](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) [PDF Instruction](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
+[YouTube Video Instruction](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) / [PDF Instruction](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
 
 Follow us on [TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) for the latest updates.
 
