@@ -20,8 +20,8 @@ Follow us on [TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.f
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
-- PCGameConsole V6.5 - Performance optimization 09-17-2020
-- VGamepad-Server V4.3 - Performance optimization 09-17-2020
+- PCGameConsole V6.6 - Bug fixes 10-04-2020
+- VGamepad-Server V4.4 - Bug fixes 10-04-2020
 - PCGameConsole V6.3 - Game list not including small files fixed/Mouse cursor lock issue fixed 06-28-2020
 - PCGameConsole V6.2 - Game Mode feature added/Optimization 06-09-2020
 - PCGameConsole V6.0 - Smoother Control 05-09-2020
