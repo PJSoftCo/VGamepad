@@ -20,8 +20,8 @@ Follow us on [TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.f
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
-- PCGameConsole V6.9 - Bug fixes 12-08-2020
-- VGamepad-Server V4.7 - Bug fixes 12-08-2020
+- PCGameConsole V7.0 - Minor fixes 01-03-2021
+- VGamepad-Server V4.8 - Minor fixes 01-03-2021
 - PCGameConsole V6.8 - AR Body Tracker Support 11-23-2020
 - VGamepad-Server V4.6 - AR Body Tracker Support 11-23-2020
 - PCGameConsole V6.7 - Enhancements 10-06-2020
