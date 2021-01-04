@@ -18,6 +18,8 @@ Follow us on [TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.f
 
 [Become a sponsor](https://github.com/sponsors/PJSoftCo)
 
+Please join our [Discord](https://discord.gg/ZcAuAJp8py) channel!
+
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
 - PCGameConsole V7.0 - Minor fixes 01-03-2021
