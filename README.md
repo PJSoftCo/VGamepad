@@ -10,6 +10,8 @@
 
 **AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION**
 
+**Hit A/B/X/Y or equivalent PS buttons to establish the connection with server faster**
+
 **Find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
 
 [YouTube Video Instruction](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) / [PDF Instruction](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
