@@ -22,8 +22,8 @@ Please join our [Discord](https://discord.gg/ZcAuAJp8py) channel!
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
-- PCGameConsole V7.0 - Minor fixes 01-03-2021
-- VGamepad-Server V4.8 - Minor fixes 01-03-2021
+- PCGameConsole V7.1 - Rec button fixed/Better D-pad response 01-06-2021
+- VGamepad-Server V4.9 - Rec button fixed/Better D-pad response 01-06-2021
 - PCGameConsole V6.8 - AR Body Tracker Support 11-23-2020
 - VGamepad-Server V4.6 - AR Body Tracker Support 11-23-2020
 - PCGameConsole V6.7 - Enhancements 10-06-2020
