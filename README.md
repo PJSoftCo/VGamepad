@@ -18,6 +18,7 @@ Please join our [Discord](https://discord.gg/ZcAuAJp8py) channel!
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
+- PCGameConsole V7.3 - Hotfix for version checking error 01-26-2021
 - PCGameConsole V7.2 - Prevent sleep & display going off/Discord channel shortcut/Click sound changed 01-25-2021
 - PCGameConsole V7.1 - Rec button fixed/Better D-pad response 01-06-2021
 - VGamepad-Server V4.9 - Rec button fixed/Better D-pad response 01-06-2021
