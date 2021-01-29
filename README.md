@@ -16,6 +16,8 @@ Follow us on [TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.f
 
 Please join our [Discord](https://discord.gg/ZcAuAJp8py) channel!
 
+Our [Twitch](https://www.twitch.tv/pjsoftco) channel.
+
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
 - PCGameConsole V7.3 - Hotfix for version checking error 01-26-2021
