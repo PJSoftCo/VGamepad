@@ -21,7 +21,7 @@ Our [Twitch](https://www.twitch.tv/pjsoftco) channel.
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
 - PCGameConsole V7.4 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers 02-03-2021
-- VGamepad-Server V5.0 Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers 02-03-2021
+- VGamepad-Server V5.0 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers 02-03-2021
 - PCGameConsole V7.2 - Prevent sleep & display going off/Discord channel shortcut/Click sound changed 01-25-2021
 - VGamepad-Server V4.9 - Rec button fixed/Better D-pad response 01-06-2021
 - PCGameConsole V6.8 - AR Body Tracker Support 11-23-2020
