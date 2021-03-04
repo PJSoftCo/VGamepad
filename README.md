@@ -18,7 +18,7 @@ Please join our [Discord](https://discord.gg/ZcAuAJp8py) & [Twitch](https://www.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
-- PCGameConsole V7.6 - Bug fixes 02-25-2021
+- PCGameConsole V7.7 - Steam DX12 games compatibility/Bug fixes 03-03-2021
 - VGamepad-Server V5.2 - Bug fixes 02-25-2021
 - PCGameConsole V7.5 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers-Bug fixes 02-04-2021
 - VGamepad-Server V5.1 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers-Bug fixes 02-04-2021
