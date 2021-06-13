@@ -18,8 +18,8 @@ Please join our [Discord](https://discord.gg/ZcAuAJp8py) & [Twitch](https://www.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
-- PCGameConsole V7.7 - Steam DX12 games compatibility/Bug fixes 03-03-2021
-- VGamepad-Server V5.2 - Bug fixes 02-25-2021
+- PCGameConsole V7.8 - Support for missing Thumb buttons for devices without the 3D touch screen 06-13-2021
+- VGamepad-Server V5.3 - Support for missing Thumb buttons for devices without the 3D touch screen 06-13-2021
 - PCGameConsole V7.5 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers-Bug fixes 02-04-2021
 - VGamepad-Server V5.1 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers-Bug fixes 02-04-2021
 - PCGameConsole V7.2 - Prevent sleep & display going off/Discord channel shortcut/Click sound changed 01-25-2021
