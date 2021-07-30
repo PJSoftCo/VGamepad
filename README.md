@@ -4,9 +4,9 @@
 
 **PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN)**
 
-**AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION**
+**AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5000)**
 
-**Hit A/B/X/Y or equivalent PS buttons to establish the connection with server faster**
+**Hit A/B/X/Y or equivalent PS buttons for faster connection establishment**
 
 **Find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
 
