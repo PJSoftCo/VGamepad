@@ -20,6 +20,8 @@ Please join our [Discord](https://discord.gg/ZcAuAJp8py) & [Twitch](https://www.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
+- PCGameConsole V7.9 - Enhancements/Support for Joycon 12-09-2021
+- VGamepad-Server V5.4 - Enhancements/Support for Joycon 12-09-2021
 - PCGameConsole V7.8 - Support for missing Thumb buttons for devices without the 3D touch screen 06-13-2021
 - VGamepad-Server V5.3 - Support for missing Thumb buttons for devices without the 3D touch screen 06-13-2021
 - PCGameConsole V7.5 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers-Bug fixes 02-04-2021
