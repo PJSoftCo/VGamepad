@@ -6,6 +6,8 @@
 
 **AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5000)**
 
+**Joycon (Cemuhook) data is transfered on this IP 127.0.0.1 Port 26760**
+
 **Hit A/B/X/Y or equivalent PS buttons for faster connection establishment**
 
 **Find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
