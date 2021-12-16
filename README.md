@@ -3,7 +3,6 @@
 ![Screenshot](https://user-images.githubusercontent.com/4211206/125650683-f4e19b8a-1a93-4109-ad61-7bcd2beef37f.png)
 
 **PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN)**
-
 **AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5000)**
 
 **Joycon (Cemuhook) data is transfered on IP:127.0.0.1/Port:26760 (Tested playing "Just Dance 2021" on Yuzu emulator with VGamepad in PS mode!)**
