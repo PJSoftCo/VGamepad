@@ -6,7 +6,7 @@
 
 **AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5000)**
 
-**Joycon (Cemuhook) data is transfered on this IP 127.0.0.1 Port 26760 (Tested playing "Just Dance 2021" on Yuzu emulator with VGamepad in PS mode!)**
+**Joycon (Cemuhook) data is transfered on IP:127.0.0.1/Port:26760 (Tested playing "Just Dance 2021" on Yuzu emulator with VGamepad in PS mode!)**
 
 **Find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
 
