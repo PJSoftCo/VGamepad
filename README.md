@@ -15,7 +15,7 @@ Follow us on [TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.f
 
 [Become a sponsor](https://github.com/sponsors/PJSoftCo)
 
-Please join our [Discord](https://discord.gg/ZcAuAJp8py) & [Twitch](https://www.twitch.tv/pjsoftco) channel!
+[Discord](https://discord.gg/ZcAuAJp8py) / [Twitch](https://www.twitch.tv/pjsoftco)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
