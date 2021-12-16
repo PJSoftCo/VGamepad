@@ -8,8 +8,6 @@
 
 **Joycon (Cemuhook) data is transfered on this IP 127.0.0.1 Port 26760 (Tested playing "Just Dance 2021" on Yuzu emulator with VGamepad in PS mode!)**
 
-**Hit A/B/X/Y or equivalent PS buttons for faster connection establishment**
-
 **Find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
 
 [YouTube Video Instruction](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) / [PDF Instruction](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
