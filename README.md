@@ -18,6 +18,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
+- PCGameConsole V8.0 - Fixed game adding issue  07-26-2022
 - PCGameConsole V7.9 - Enhancements/Support for Joycon 12-09-2021
 - VGamepad-Server V5.4 - Enhancements/Support for Joycon 12-09-2021
 - PCGameConsole V7.8 - Support for missing Thumb buttons for devices without the 3D touch screen 06-13-2021
