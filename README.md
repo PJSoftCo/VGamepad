@@ -1,5 +1,7 @@
 **IOS** [Free](https://apps.apple.com/app/id1477007195) / [Paid](https://apps.apple.com/app/id1454180100) - **Android** [Free](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree) / [Paid](https://play.google.com/store/apps/details?id=com.companyname.VGamepad)
 
+[What you can do with VGamepad](https://youtu.be/2_aKtSFoVw4)
+
 ![Screenshot](https://user-images.githubusercontent.com/4211206/125650683-f4e19b8a-1a93-4109-ad61-7bcd2beef37f.png)
 
 **PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN)**
