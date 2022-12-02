@@ -20,6 +20,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
+- PCGameConsole V8.3 - Drives Scan is an option now 12-02-2022
 - PCGameConsole V8.2 - Ability to add games manually/Remove game by middle click/Enable-Disable cursor navigation  11-11-2022
 - PCGameConsole V8.1 - Fixed game adding issue  07-26-2022
 - PCGameConsole V7.9 - Enhancements/Support for Joycon 12-09-2021
