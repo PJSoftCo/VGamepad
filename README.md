@@ -1,4 +1,4 @@
-[**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**] (https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
+[**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
 
 **Xbox/PS controller for PC**
 
