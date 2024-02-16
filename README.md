@@ -22,6 +22,8 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
+- PCGameConsole V8.5 - Enhancements 02-15-2024
+- VGamepad-Server V5.7 - Enhancements 02-15-2024
 - PCGameConsole V8.4 - Fix for the IOS pressure value update 05-25-2023
 - VGamepad-Server V5.6 - Fix for the IOS pressure value update 05-25-2023
 - PCGameConsole V8.3 - Drives Scan is an option now 12-02-2022
