@@ -1,3 +1,5 @@
+**The port has changed from 5000 to 5321, please allow the connection when the firewall prompts it. If you have trouble, please check the FAQ section of the instruction PDF.**
+
 [**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
 
 **Xbox/PS controller for PC**
@@ -124,4 +126,4 @@ By visiting this page on our website: https://github.com/PJSoftCo/VGamepad
 --------------------------------------------------------------------------------------------------------------------------------------
 [**Terms and Conditions**](https://app.termly.io/document/terms-of-use-for-website/538e4813-8796-44c1-8821-93a52ef5c2b7)
 
-GTCHY:001:300:0.99:276+357+435+446:Monthly1:5000:
+GTCHY:001:300:0.99:276+357+435+446:Monthly1:5321:
