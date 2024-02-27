@@ -24,7 +24,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
-- VGamepad-ServerMac V1.1 - Enhancements 02-15-2024
+- VGamepad-ServerMac V1.0 - First Version 02-26-2024
 - PCGameConsole V8.5 - Enhancements 02-15-2024
 - VGamepad-Server V5.7 - Enhancements 02-15-2024
 - PCGameConsole V8.4 - Fix for the IOS pressure value update 05-25-2023
