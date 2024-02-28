@@ -1,5 +1,3 @@
-**The port has changed from 5000 to 5321, please allow the connection when the firewall prompts it. If you have trouble, please check the FAQ section of the instruction PDF.**
-
 [**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
 
 **Xbox/PS controller for PC**
@@ -9,7 +7,7 @@
 ![Screenshot](https://user-images.githubusercontent.com/4211206/125650683-f4e19b8a-1a93-4109-ad61-7bcd2beef37f.png)
 
 **PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN)**
-**AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5000)**
+**AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5321)**
 
 **Joycon (Cemuhook) data is transferred on IP:127.0.0.1/Port:26760 (Tested playing "Just Dance 2021" on Yuzu emulator with VGamepad in PS mode).
  Joycon turns itself off every time you reopen the App, don't forget to turn it back on if you want to use it!**
