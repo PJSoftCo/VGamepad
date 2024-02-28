@@ -24,6 +24,8 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
+- PCGameConsole V8.6 - Enhancements 02-28-2024
+- VGamepad-Server V5.8 - Enhancements 02-28-2024
 - VGamepad-ServerMac V1.0 - First Version 02-27-2024
 - PCGameConsole V8.5 - Enhancements 02-15-2024
 - VGamepad-Server V5.7 - Enhancements 02-15-2024
@@ -31,28 +33,7 @@
 - VGamepad-Server V5.6 - Fix for the IOS pressure value update 05-25-2023
 - PCGameConsole V8.3 - Drives Scan is an option now 12-02-2022
 - PCGameConsole V8.2 - Ability to add games manually/Remove game by middle click/Enable-Disable cursor navigation  11-11-2022
-- PCGameConsole V8.1 - Fixed game adding issue  07-26-2022
-- PCGameConsole V7.9 - Enhancements/Support for Joycon 12-09-2021
-- VGamepad-Server V5.4 - Enhancements/Support for Joycon 12-09-2021
-- PCGameConsole V7.8 - Support for missing Thumb buttons for devices without the 3D touch screen 06-13-2021
-- VGamepad-Server V5.3 - Support for missing Thumb buttons for devices without the 3D touch screen 06-13-2021
-- PCGameConsole V7.5 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers-Bug fixes 02-04-2021
-- VGamepad-Server V5.1 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers-Bug fixes 02-04-2021
-- PCGameConsole V7.2 - Prevent sleep & display going off/Discord channel shortcut/Click sound changed 01-25-2021
-- VGamepad-Server V4.9 - Rec button fixed/Better D-pad response 01-06-2021
-- PCGameConsole V6.8 - AR Body Tracker Support 11-23-2020
-- VGamepad-Server V4.6 - AR Body Tracker Support 11-23-2020
-- PCGameConsole V6.7 - Enhancements 10-06-2020
-- VGamepad-Server V4.5 - Startup issue fixed/Enhancements 10-06-2020
-- PCGameConsole V6.3 - Game list not including small files fixed/Mouse cursor lock issue fixed 06-28-2020
-- PCGameConsole V6.2 - Game Mode feature added/Optimization 06-09-2020
-- PCGameConsole V6.0 - Smoother Control 05-09-2020
-- VGamepad-Server V4.0 - Smoother Control 05-09-2020
-- PCGameConsole V5.9 - Better IP detection/Minor fixes 05-02-2020
-- VGamepad-Server V3.9 - Better IP detection/Minor fixes 05-02-2020
-- PCGameConsole V5.7 - Continuous touch for A/B/X/Y or equivalent PS buttons 04-26-2020
-- VGamepad-Server V3.7 - Continuous touch for A/B/X/Y or equivalent PS buttons 04-26-2020
-- PCGameConsole V4.0 - Steam Games Compatibility
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 **English**
