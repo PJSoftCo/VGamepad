@@ -22,8 +22,8 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
-- PCGameConsole V8.6 - Enhancements 02-28-2024
-- VGamepad-Server V5.8 - Enhancements 02-28-2024
+- PCGameConsole V8.7 - Bug fixes 03-01-2024
+- VGamepad-Server V5.9 - Bug fixes 03-01-2024
 - VGamepad-ServerMac V1.0 - First Version 02-27-2024
 - PCGameConsole V8.5 - Enhancements 02-15-2024
 - VGamepad-Server V5.7 - Enhancements 02-15-2024
