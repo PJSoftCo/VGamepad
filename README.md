@@ -22,8 +22,8 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
-- PCGameConsole V8.7 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
-- VGamepad-Server V5.9 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
+- PCGameConsole V8.8 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
+- VGamepad-Server V6.0 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
 - VGamepad-ServerMac V1.0 - First Version 02-27-2024
 - PCGameConsole V8.5 - Enhancements 02-15-2024
 - VGamepad-Server V5.7 - Enhancements 02-15-2024
@@ -91,7 +91,7 @@ Changes To This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+We will let you know via email and/or a prominent notice on our Service, before the change becomes effective and update the "effective date" at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
