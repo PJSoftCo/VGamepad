@@ -12,7 +12,7 @@
 **Joycon (Cemuhook) data is transferred on IP:127.0.0.1/Port:26760 (Tested playing "Just Dance 2021" on Yuzu emulator with VGamepad in PS mode).
  Joycon turns itself off every time you reopen the App, don't forget to turn it back on if you want to use it!**
 
-**Find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
+**Please find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
 
 [YouTube Instruction](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) / [PDF Instruction](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
 
