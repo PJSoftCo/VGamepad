@@ -22,6 +22,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
+- VGamepad-ServerMac V1.2 - Mac OS 10.15 and Above Compatible Version/Bug Fixes 04-01-2024
 - PCGameConsole V9.0 - Ultimate shock experience/Enhancements 03-25-2024
 - VGamepad-Server V6.2 - Ultimate shock experience/Enhancements 03-25-2024
 - PCGameConsole V8.8 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
