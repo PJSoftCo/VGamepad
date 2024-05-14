@@ -1,6 +1,6 @@
 [**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
 
-**Xbox/PS controller for PC**
+**Xbox/PS/JoyCon controller for PC**
 
 [What you can do with VGamepad](https://youtu.be/2_aKtSFoVw4)
 
