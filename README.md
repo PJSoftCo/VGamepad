@@ -4,7 +4,11 @@
 
 [What you can do with VGamepad](https://youtu.be/2_aKtSFoVw4)
 
-![Screenshot](https://user-images.githubusercontent.com/4211206/125650683-f4e19b8a-1a93-4109-ad61-7bcd2beef37f.png)
+![Screenshot](https://github.com/PJSoftCo/VGamepad/assets/4211206/62d52523-fd2f-457d-83bf-542b290da849)
+
+![photo_2024-05-16_11-58-02](https://github.com/PJSoftCo/VGamepad/assets/4211206/2851bf9f-f7b3-42b2-81cc-8ebd6b6113e0)
+
+![BodyTracker](https://github.com/PJSoftCo/VGamepad/assets/4211206/fd1e7738-6cac-406f-945e-17c32cf86d69)
 
 **PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN)**
 **AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5321)**
