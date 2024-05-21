@@ -2,6 +2,8 @@
 
 **Xbox/PS/JoyCon controller for PC**
 
+[YouTube Instruction/Help](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) / [PDF Instruction/Help](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
+
 [What you can do with VGamepad](https://youtu.be/2_aKtSFoVw4)
 
 ![Screenshot](https://github.com/PJSoftCo/VGamepad/assets/4211206/62d52523-fd2f-457d-83bf-542b290da849)
@@ -17,8 +19,6 @@
  Joycon turns itself off every time you reopen the App, don't forget to turn it back on if you want to use it!**
 
 **Please find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
-
-[YouTube Instruction](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) / [PDF Instruction](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
 
 [Discord](https://discord.gg/ZcAuAJp8py)/[Twitch](https://www.twitch.tv/pjsoftco)/[TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw)
 
