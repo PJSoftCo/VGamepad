@@ -2,7 +2,7 @@
 
 **Xbox/PS/JoyCon controller for PC**
 
-[YouTube Instruction/Help](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) / [PDF Instruction/Help](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
+[Help/YouTube Instruction](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) / [Help/PDF Instruction](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
 
 [What you can do with VGamepad](https://youtu.be/2_aKtSFoVw4)
 
