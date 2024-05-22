@@ -22,24 +22,7 @@
 
 [Discord](https://discord.gg/ZcAuAJp8py)/[Twitch](https://www.twitch.tv/pjsoftco)/[TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw)
 
-[Become a sponsor](https://github.com/sponsors/PJSoftCo)
-
-----------------------------------------------------------------------------------------------------------------------------------
-**What's new:**
-- PCGameConsole V9.1 - Better IP retrieval 04-24-2024
-- VGamepad-Server V6.3 - Better IP retrieval 04-24-2024
-- VGamepad-ServerMac V1.2 - Mac OS 10.15 and Above Compatible Version/Bug Fixes 04-01-2024
-- PCGameConsole V9.0 - Ultimate shock experience/Enhancements 03-25-2024
-- VGamepad-Server V6.2 - Ultimate shock experience/Enhancements 03-25-2024
-- PCGameConsole V8.8 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
-- VGamepad-Server V6.0 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
-- VGamepad-ServerMac V1.0 - First Version 02-27-2024
-- PCGameConsole V8.5 - Enhancements 02-15-2024
-- VGamepad-Server V5.7 - Enhancements 02-15-2024
-- PCGameConsole V8.4 - Fix for the IOS pressure value update 05-25-2023
-- VGamepad-Server V5.6 - Fix for the IOS pressure value update 05-25-2023
-- PCGameConsole V8.3 - Drives Scan is an option now 12-02-2022
-- PCGameConsole V8.2 - Ability to add games manually/Remove game by middle click/Enable-Disable cursor navigation  11-11-2022
+[Become a sponsor](https://github.com/sponsors/
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
@@ -82,6 +65,25 @@ IL EST TEMPS D'INSTALLER LE LOGICIEL CÔTÉ SERVEUR SUR VOTRE PC. Vous pouvez ut
 **Chinese**
 
 是时候在您的PC上安装服务器端软件了。 您可以使用VGamepad-Server或新版本的 [PCGameConsole](https://github.com/PJSoftCo/PCGameConsole) 将VGamepad连接到PC。 安装服务器端程序后，使用显示的IP（在PCGameConsole软件的“设置”菜单中找到此IP），然后将其输入手机上的VGamepad应用程序中。 您还需要设置密码以保护VGamepad App与PC之间的通信安全。 VGamepad可以将您的手机转换为具有几乎所有功能的无线Xbox或Playstation控制器，包括IOS和Android设备上可用的震动反馈。 多个控制器可以同时连接到服务器端程序。
+
+PJSoftCo)
+
+----------------------------------------------------------------------------------------------------------------------------------
+**What's new:**
+- PCGameConsole V9.1 - Better IP retrieval 04-24-2024
+- VGamepad-Server V6.3 - Better IP retrieval 04-24-2024
+- VGamepad-ServerMac V1.2 - Mac OS 10.15 and Above Compatible Version/Bug Fixes 04-01-2024
+- PCGameConsole V9.0 - Ultimate shock experience/Enhancements 03-25-2024
+- VGamepad-Server V6.2 - Ultimate shock experience/Enhancements 03-25-2024
+- PCGameConsole V8.8 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
+- VGamepad-Server V6.0 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
+- VGamepad-ServerMac V1.0 - First Version 02-27-2024
+- PCGameConsole V8.5 - Enhancements 02-15-2024
+- VGamepad-Server V5.7 - Enhancements 02-15-2024
+- PCGameConsole V8.4 - Fix for the IOS pressure value update 05-25-2023
+- VGamepad-Server V5.6 - Fix for the IOS pressure value update 05-25-2023
+- PCGameConsole V8.3 - Drives Scan is an option now 12-02-2022
+- PCGameConsole V8.2 - Ability to add games manually/Remove game by middle click/Enable-Disable cursor navigation  11-11-2022
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
