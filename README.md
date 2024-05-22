@@ -22,7 +22,7 @@
 
 [Discord](https://discord.gg/ZcAuAJp8py)/[Twitch](https://www.twitch.tv/pjsoftco)/[TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw)
 
-[Become a sponsor](https://github.com/sponsors/
+[Become a sponsor](https://github.com/sponsors/)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
