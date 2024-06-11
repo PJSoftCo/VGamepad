@@ -18,7 +18,7 @@ Help/Instruction [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyRD
 **Joycon (Cemuhook) data is transferred on IP:127.0.0.1/Port:26760 (Tested playing "Just Dance 2021" on Yuzu emulator with VGamepad in PS mode).
  Joycon turns itself off every time you reopen the App, don't forget to turn it back on if you want to use it!**
 
-**You cannot use the android app if you have ads blocker installed and activated on your phone.
+**You cannot use the android app if you have ads blocker installed and activated on your phone.**
 
 **Please find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
 
