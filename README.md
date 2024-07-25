@@ -1,11 +1,15 @@
 **Xbox/PS/JoyCon controller for PC**
+
 [**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
 
 **Server-Side Software**
+
 Windows
+
 [VGamepad-Server](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Server_V6.3.zip)/[PCGameConsole](https://github.com/PJSoftCo/VGamepad/blob/master/PCGameConsole_V9.1.zip)
 
 MAC
+
 [VGamepad-Server-Mac](https://github.com/PJSoftCo/VGamepad/blob/c02a2b1cea62e24ea2df0414d301992d64dfeaca/VGamepad-Server-Mac.zip)
 
 Help/Instruction [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) - [(PDF)](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
