@@ -5,10 +5,10 @@
 **2. Server-Side Software:**
 
 (Windows)
-[VGamepad-Server](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/VGamepad-Server_V6.3.zip) - [PCGameConsole](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.1.zip)
+[VGamepad-Server.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/VGamepad-Server_V6.3.zip) - [PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.1.zip)
 
 (MAC)
-[VGamepad-Server-Mac](https://raw.githubusercontent.com/PJSoftCo/VGamepad/c02a2b1cea62e24ea2df0414d301992d64dfeaca/VGamepad-Server-Mac.zip)
+[VGamepad-Server-Mac.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/c02a2b1cea62e24ea2df0414d301992d64dfeaca/VGamepad-Server-Mac.zip)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
