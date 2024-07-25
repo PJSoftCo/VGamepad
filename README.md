@@ -10,6 +10,8 @@
 (MAC)
 [VGamepad-Server-Mac](https://github.com/PJSoftCo/VGamepad/blob/c02a2b1cea62e24ea2df0414d301992d64dfeaca/VGamepad-Server-Mac.zip)
 
+----------------------------------------------------------------------------------------------------------------------------------
+
 Help/Instruction: [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) - [(PDF)](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
 
 [What you can do with VGamepad](https://youtu.be/2_aKtSFoVw4)
