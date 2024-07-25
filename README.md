@@ -1,9 +1,7 @@
 **Xbox/PS/JoyCon controller for PC**
-
 [**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
 
 **Server-Side Software**
-
 Windows
 [VGamepad-Server](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Server_V6.3.zip)/[PCGameConsole](https://github.com/PJSoftCo/VGamepad/blob/master/PCGameConsole_V9.1.zip)
 
