@@ -1,4 +1,4 @@
-**Xbox/PS/JoyCon controller for PC App:**
+**Xbox/PS/JoyCon controller for PC:**
 
 [**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
 
