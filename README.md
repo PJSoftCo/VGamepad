@@ -26,13 +26,13 @@ Help/Instruction: [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyR
 **AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5321)**
 
 **Joycon (Cemuhook) data is transferred on IP:127.0.0.1/Port:26760 (Tested playing "Just Dance 2021" on Yuzu emulator with VGamepad in PS mode).
- Joycon turns itself off every time you reopen the App, don't forget to turn it back on if you want to use it!**
+ Joycon turns itself off every time you reopen the app, so don't forget to turn it back on if you want to use it!**
 
-**You cannot use the android app if you have ads blocker installed and activated on your phone.**
+**You cannot use the Android app if your phone has an ad blocker installed and activated.**
 
 **Please find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
 
-[Discord](https://discord.gg/ZcAuAJp8py)/[Twitch](https://www.twitch.tv/pjsoftco)/[TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw)
+[Our Official Website](https://pjsoftco.com)/[Discord](https://discord.gg/ZcAuAJp8py)/[Twitch](https://www.twitch.tv/pjsoftco)/[TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw)
 
 [Become a sponsor](https://github.com/sponsors/)
 
@@ -40,7 +40,7 @@ Help/Instruction: [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyR
 
 **English**
 
-IT'S TIME TO INSTALL THE SERVER-SIDE SOFTWARE ON YOUR PC. You can either use VGamepad-Server or the new version of [PCGameConsole](https://github.com/PJSoftCo/PCGameConsole) to connect your VGamepad to your PC. After installing the server-side program, use the shown IP (find this IP in the Settings menu on PCGameConsole software) and enter it in your VGamepad app on your phone. You are also required to set a password to secure the communication between your VGamepad App and your PC. VGamepad converts your phone into a wireless Xbox or Playstation controller with almost all the features including the shock feedback, available on IOS and Android devices. Multiple controllers can be connected to the server-side program concurrently.
+IT'S TIME TO INSTALL THE SERVER-SIDE SOFTWARE ON YOUR PC. You can either use VGamepad-Server or the new version of [PCGameConsole](https://github.com/PJSoftCo/PCGameConsole) to connect your VGamepad to your PC. After installing the server-side program, use the shown IP (find this IP in the Settings menu on PCGameConsole software) and enter it in your VGamepad app on your phone. You are also required to set a password to secure the communication between your VGamepad App and your PC. VGamepad converts your phone into a wireless Xbox or PlayStation controller with almost all the features, including the shock feedback, available on IOS and Android devices. Multiple controllers can be connected to the server-side program concurrently.
 
 
 
