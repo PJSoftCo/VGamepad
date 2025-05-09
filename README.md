@@ -1,63 +1,46 @@
-**The port has changed from 5000 to 5321, please allow the connection when the firewall prompts it. If you have trouble, please check the FAQ section of the instruction PDF.**
+**1. Xbox/PS/JoyCon controller for PC:**
 
 [**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
 
-**Xbox/PS controller for PC**
+**2. Server-Side Software:**
 
-[What you can do with VGamepad](https://youtu.be/2_aKtSFoVw4)
+(Windows)
+[VGamepad-Server.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/VGamepad-Server_V6.3.zip) - [PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.1.zip)
 
-![Screenshot](https://user-images.githubusercontent.com/4211206/125650683-f4e19b8a-1a93-4109-ad61-7bcd2beef37f.png)
-
-**PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN)**
-**AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5000)**
-
-**Joycon (Cemuhook) data is transferred on IP:127.0.0.1/Port:26760 (Tested playing "Just Dance 2021" on Yuzu emulator with VGamepad in PS mode).
- Joycon turns itself off every time you reopen the App, don't forget to turn it back on if you want to use it!**
-
-**Find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
-
-[YouTube Instruction](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) / [PDF Instruction](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
-
-[Discord](https://discord.gg/ZcAuAJp8py)/[Twitch](https://www.twitch.tv/pjsoftco)/[TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw)
-
-[Become a sponsor](https://github.com/sponsors/PJSoftCo)
+(MAC)
+[VGamepad-Server-Mac.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/c02a2b1cea62e24ea2df0414d301992d64dfeaca/VGamepad-Server-Mac.zip)
 
 ----------------------------------------------------------------------------------------------------------------------------------
-**What's new:**
-- VGamepad-ServerMac V1.0 - First Version 02-26-2024
-- PCGameConsole V8.5 - Enhancements 02-15-2024
-- VGamepad-Server V5.7 - Enhancements 02-15-2024
-- PCGameConsole V8.4 - Fix for the IOS pressure value update 05-25-2023
-- VGamepad-Server V5.6 - Fix for the IOS pressure value update 05-25-2023
-- PCGameConsole V8.3 - Drives Scan is an option now 12-02-2022
-- PCGameConsole V8.2 - Ability to add games manually/Remove game by middle click/Enable-Disable cursor navigation  11-11-2022
-- PCGameConsole V8.1 - Fixed game adding issue  07-26-2022
-- PCGameConsole V7.9 - Enhancements/Support for Joycon 12-09-2021
-- VGamepad-Server V5.4 - Enhancements/Support for Joycon 12-09-2021
-- PCGameConsole V7.8 - Support for missing Thumb buttons for devices without the 3D touch screen 06-13-2021
-- VGamepad-Server V5.3 - Support for missing Thumb buttons for devices without the 3D touch screen 06-13-2021
-- PCGameConsole V7.5 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers-Bug fixes 02-04-2021
-- VGamepad-Server V5.1 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers-Bug fixes 02-04-2021
-- PCGameConsole V7.2 - Prevent sleep & display going off/Discord channel shortcut/Click sound changed 01-25-2021
-- VGamepad-Server V4.9 - Rec button fixed/Better D-pad response 01-06-2021
-- PCGameConsole V6.8 - AR Body Tracker Support 11-23-2020
-- VGamepad-Server V4.6 - AR Body Tracker Support 11-23-2020
-- PCGameConsole V6.7 - Enhancements 10-06-2020
-- VGamepad-Server V4.5 - Startup issue fixed/Enhancements 10-06-2020
-- PCGameConsole V6.3 - Game list not including small files fixed/Mouse cursor lock issue fixed 06-28-2020
-- PCGameConsole V6.2 - Game Mode feature added/Optimization 06-09-2020
-- PCGameConsole V6.0 - Smoother Control 05-09-2020
-- VGamepad-Server V4.0 - Smoother Control 05-09-2020
-- PCGameConsole V5.9 - Better IP detection/Minor fixes 05-02-2020
-- VGamepad-Server V3.9 - Better IP detection/Minor fixes 05-02-2020
-- PCGameConsole V5.7 - Continuous touch for A/B/X/Y or equivalent PS buttons 04-26-2020
-- VGamepad-Server V3.7 - Continuous touch for A/B/X/Y or equivalent PS buttons 04-26-2020
-- PCGameConsole V4.0 - Steam Games Compatibility
+
+Help/Instruction: [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) - [(PDF)](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
+
+[Why VGamepad?](https://youtu.be/2_aKtSFoVw4)
+
+![Screenshot](https://github.com/PJSoftCo/VGamepad/assets/4211206/62d52523-fd2f-457d-83bf-542b290da849)
+
+![photo_2024-05-16_11-58-02](https://github.com/PJSoftCo/VGamepad/assets/4211206/2851bf9f-f7b3-42b2-81cc-8ebd6b6113e0)
+
+![BodyTracker](https://github.com/PJSoftCo/VGamepad/assets/4211206/fd1e7738-6cac-406f-945e-17c32cf86d69)
+
+**PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN)**
+**AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5321)**
+
+**Joycon (Cemuhook) data is transferred on IP:127.0.0.1/Port:26760 (Tested playing "Just Dance 2021" on Yuzu emulator with VGamepad in PS mode).
+ Joycon turns itself off every time you reopen the app, so don't forget to turn it back on if you want to use it!**
+
+**You cannot use the Android app if your phone has an ad blocker installed and activated.**
+
+**Please find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
+
+[Our Official Website](https://pjsoftco.com)/[Discord](https://discord.gg/ZcAuAJp8py)/[Twitch](https://www.twitch.tv/pjsoftco)/[TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw)
+
+[Become a sponsor](https://github.com/sponsors/) Or [Patreon](https://patreon.com/PJSOFTCO)
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 **English**
 
-IT'S TIME TO INSTALL THE SERVER-SIDE SOFTWARE ON YOUR PC. You can either use VGamepad-Server or the new version of [PCGameConsole](https://github.com/PJSoftCo/PCGameConsole) to connect your VGamepad to your PC. After installing the server-side program, use the shown IP (find this IP in the Settings menu on PCGameConsole software) and enter it in your VGamepad app on your phone. You are also required to set a password to secure the communication between your VGamepad App and your PC. VGamepad converts your phone into a wireless Xbox or Playstation controller with almost all the features including the shock feedback, available on IOS and Android devices. Multiple controllers can be connected to the server-side program concurrently.
+IT'S TIME TO INSTALL THE SERVER-SIDE SOFTWARE ON YOUR PC. You can either use VGamepad-Server or the new version of [PCGameConsole](https://github.com/PJSoftCo/PCGameConsole) to connect your VGamepad to your PC. After installing the server-side program, use the shown IP (find this IP in the Settings menu on PCGameConsole software) and enter it in your VGamepad app on your phone. You are also required to set a password to secure the communication between your VGamepad App and your PC. VGamepad converts your phone into a wireless Xbox or PlayStation controller with almost all the features, including the shock feedback, available on IOS and Android devices. Multiple controllers can be connected to the server-side program concurrently.
 
 
 
@@ -95,6 +78,25 @@ IL EST TEMPS D'INSTALLER LE LOGICIEL CÔTÉ SERVEUR SUR VOTRE PC. Vous pouvez ut
 
 是时候在您的PC上安装服务器端软件了。 您可以使用VGamepad-Server或新版本的 [PCGameConsole](https://github.com/PJSoftCo/PCGameConsole) 将VGamepad连接到PC。 安装服务器端程序后，使用显示的IP（在PCGameConsole软件的“设置”菜单中找到此IP），然后将其输入手机上的VGamepad应用程序中。 您还需要设置密码以保护VGamepad App与PC之间的通信安全。 VGamepad可以将您的手机转换为具有几乎所有功能的无线Xbox或Playstation控制器，包括IOS和Android设备上可用的震动反馈。 多个控制器可以同时连接到服务器端程序。
 
+PJSoftCo)
+
+----------------------------------------------------------------------------------------------------------------------------------
+**What's new:**
+- PCGameConsole V9.1 - Better IP retrieval 04-24-2024
+- VGamepad-Server V6.3 - Better IP retrieval 04-24-2024
+- VGamepad-ServerMac V1.2 - Mac OS 10.15 and Above Compatible Version/Bug Fixes 04-01-2024
+- PCGameConsole V9.0 - Ultimate shock experience/Enhancements 03-25-2024
+- VGamepad-Server V6.2 - Ultimate shock experience/Enhancements 03-25-2024
+- PCGameConsole V8.8 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
+- VGamepad-Server V6.0 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
+- VGamepad-ServerMac V1.0 - First Version 02-27-2024
+- PCGameConsole V8.5 - Enhancements 02-15-2024
+- VGamepad-Server V5.7 - Enhancements 02-15-2024
+- PCGameConsole V8.4 - Fix for the IOS pressure value update 05-25-2023
+- VGamepad-Server V5.6 - Fix for the IOS pressure value update 05-25-2023
+- PCGameConsole V8.3 - Drives Scan is an option now 12-02-2022
+- PCGameConsole V8.2 - Ability to add games manually/Remove game by middle click/Enable-Disable cursor navigation  11-11-2022
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 **Privacy Policy of VGamepad**
@@ -112,7 +114,7 @@ Changes To This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+We will email you and/or prominently post a notice on our Service before the change becomes effective and update the "effective date" at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
@@ -127,4 +129,4 @@ By visiting this page on our website: https://github.com/PJSoftCo/VGamepad
 --------------------------------------------------------------------------------------------------------------------------------------
 [**Terms and Conditions**](https://app.termly.io/document/terms-of-use-for-website/538e4813-8796-44c1-8821-93a52ef5c2b7)
 
-GTCHY:001:300:0.99:276+357+435+446:Monthly1:5321:
+GTCHY:002:300:1.99:276+357+435+446:Monthly2:5321:0:
