@@ -14,7 +14,7 @@
 
 Help/Instruction: [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) - [(PDF)](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
 
-[Why VGamepad?](https://youtu.be/2_aKtSFoVw4)
+[Why VGamepad?](https://youtu.be/jvA4v_bZ43I?si=eNWD3Qi1m6qWCGoo)
 
 ![Screenshot](https://github.com/PJSoftCo/VGamepad/assets/4211206/62d52523-fd2f-457d-83bf-542b290da849)
 
