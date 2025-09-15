@@ -110,4 +110,4 @@ On Discord: https://discord.gg/ZcAuAJp8py
 --------------------------------------------------------------------------------------------------------------------------------------
 [**Terms and Conditions**](https://app.termly.io/document/terms-of-use-for-website/538e4813-8796-44c1-8821-93a52ef5c2b7)
 
-GTCHY:002:300:1.99:276+357+435+446:Monthly2:5321:0:0:
+GTCHY:002:300:1.99:276+357+435+446:Monthly2:5321:0:1:
