@@ -5,7 +5,7 @@
 **2. Server-Side Software:**
 
 (Windows)
-[VGamepad-Server.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/VGamepad-Server_V6.3.zip) - [PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.1.zip)
+[VGamepad-Server.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/VGamepad-Server_V6.3.zip) - [PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.2.zip)
 
 (MAC)
 [VGamepad-Server-Mac.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/c02a2b1cea62e24ea2df0414d301992d64dfeaca/VGamepad-Server-Mac.zip)
@@ -26,7 +26,7 @@ Help/Instruction: [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyR
 **AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5321)**
 
 **Joycon (Cemuhook) data is transferred on IP:127.0.0.1/Port:26760 (Tested playing "Just Dance 2021" on Yuzu emulator with VGamepad in PS mode).
- Joycon turns itself off every time you reopen the app, so don't forget to turn it back on if you want to use it!**
+ Joy-Con turns itself off every time you reopen the app, so don't forget to turn it back on if you want to use it!**
 
 **You cannot use the Android app if your phone has an ad blocker installed and activated.**
 
@@ -66,7 +66,7 @@ PC'nizdeki SUNUCU YAZILIMINI KURMA ZAMANI. VGamepad'inizi PC'nize bağlamak içi
 
 **French**
 
-IL EST TEMPS D'INSTALLER LE LOGICIEL CÔTÉ SERVEUR SUR VOTRE PC. Vous pouvez utiliser VGamepad-Server ou la nouvelle version de [PCGameConsole](https://github.com/PJSoftCo/PCGameConsole) pour connecter votre VGamepad à votre PC. Après avoir installé l'application côté serveur, utilisez l'adresse IP affichée (recherchez cette adresse IP dans le menu Paramètres du logiciel PCGameConsole) et entrez-la dans votre application VGamepad sur votre téléphone. Vous devez également définir un mot de passe pour sécuriser la communication entre votre application VGamepad et votre PC. VGamepad convertit votre téléphone en contrôleur Xbox ou Playstation sans fil avec presque toutes les fonctionnalités, y compris le retour d’impact disponible sur les appareils IOS et Android. Plusieurs contrôleurs peuvent être connectés simultanément au programme côté serveur.
+IL EST TEMPS D'INSTALLER LE LOGICIEL CÔTÉ SERVEUR SUR VOTRE PC. Vous pouvez utiliser VGamepad-Server ou la nouvelle version de [PCGameConsole](https://github.com/PJSoftCo/PCGameConsole) pour connecter votre VGamepad à votre PC. Après avoir installé l'application côté serveur, utilisez l'adresse IP affichée (recherchez cette adresse IP dans le menu Paramètres du logiciel PCGameConsole) et entrez-la dans votre application VGamepad sur votre téléphone. Vous devez également définir un mot de passe pour sécuriser la communication entre votre application VGamepad et votre PC. VGamepad convertit votre téléphone en contrôleur Xbox ou Playstation sans fil avec presque toutes les fonctionnalités, y compris le retour d’impact disponible sur les appareils iOS et Android. Plusieurs contrôleurs peuvent être connectés simultanément au programme côté serveur.
 
 
 **Arabic**
@@ -82,6 +82,7 @@ PJSoftCo)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
+- PCGameConsole V9.2 - Enhancements/Steam games-related fixes 11-13-2025.
 - PCGameConsole V9.1 - Better IP retrieval 04-24-2024
 - VGamepad-Server V6.3 - Better IP retrieval 04-24-2024
 - VGamepad-ServerMac V1.2 - Mac OS 10.15 and Above Compatible Version/Bug Fixes 04-01-2024
