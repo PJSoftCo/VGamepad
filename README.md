@@ -83,7 +83,6 @@ PJSoftCo)
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
 - PCGameConsole V9.2 - Enhancements/Steam games-related fixes 11-13-2025.
-- PCGameConsole V9.1 - Better IP retrieval 04-24-2024
 - VGamepad-Server V6.3 - Better IP retrieval 04-24-2024
 - VGamepad-ServerMac V1.2 - Mac OS 10.15 and Above Compatible Version/Bug Fixes 04-01-2024
 - PCGameConsole V9.0 - Ultimate shock experience/Enhancements 03-25-2024
