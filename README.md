@@ -1,6 +1,6 @@
 **1. Xbox/PS/JoyCon controller for PC:**
 
-Subscription: [**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
+Subscription Based: [**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
 
 One Time Purchase: [**IOS**](https://apps.apple.com/app/id1454180100) - [**Android**](https://play.google.com/store/apps/details?id=com.companyname.VGamepad)
 
