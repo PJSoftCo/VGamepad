@@ -1,8 +1,8 @@
-We are aware of our servers being down and actively working on the fix. Will update shortly! Thank you for your patience.
-
 **1. Xbox/PS/JoyCon controller for PC:**
 
-[**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
+Subscription: [**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
+
+One Time Purchase: [**IOS**](https://apps.apple.com/app/id1454180100) - [**Android**](https://play.google.com/store/apps/details?id=com.companyname.VGamepad)
 
 **2. Server-Side Software:**
 
