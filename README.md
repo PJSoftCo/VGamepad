@@ -1,4 +1,4 @@
-** our servers are down due to the storm in Chicago area, sorry for the inconvenience, we will be back soon **
+** Servers are back to normal **
 
 **1. Xbox/PS/JoyCon controller for PC:**
 
