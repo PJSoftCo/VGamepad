@@ -7,7 +7,7 @@ One Time Purchase: [**IOS**](https://apps.apple.com/app/id1454180100) - [**Andro
 **2. Server-Side Software:**
 
 (Windows)
-[VGamepad-Server.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/VGamepad-Server_V6.4.zip) - [PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.3.zip)
+[VGamepad-Server.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/VGamepad-Server_V6.5.zip) - [PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.4.zip)
 
 (MAC)
 [VGamepad-Server-Mac.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/c02a2b1cea62e24ea2df0414d301992d64dfeaca/VGamepad-Server-Mac.zip)
@@ -84,6 +84,8 @@ PJSoftCo)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
+- PCGameConsole V9.4 - Major Enhancements/Body Tracker simulator (App >= V10) 07-29-2026
+- VGamepad-Server V6.5 - Major Enhancements/Body Tracker simulator (App >= V10) 07-29-2026
 - PCGameConsole V9.3 - Automatic Server Discovery (App >= V9.5) 12-23-2025
 - VGamepad-Server V6.4 - Automatic Server Discovery (App >= V9.5) 12-23-2025
 - PCGameConsole V9.2 - Enhancements/Steam games-related fixes 11-13-2025
