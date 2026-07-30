@@ -84,8 +84,8 @@ PJSoftCo)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
-- PCGameConsole V9.4 - Major Enhancements/Body Tracker simulator (App >= V10) 07-29-2026
-- VGamepad-Server V6.5 - Major Enhancements/Body Tracker simulator (App >= V10) 07-29-2026
+- PCGameConsole V9.4 - Major Enhancements/Body Tracker simulator (App >= V10 - App re-install recommended) 07-29-2026
+- VGamepad-Server V6.5 - Major Enhancements/Body Tracker simulator (App >= V10 - App re-install recommended) 07-29-2026
 - PCGameConsole V9.3 - Automatic Server Discovery (App >= V9.5) 12-23-2025
 - VGamepad-Server V6.4 - Automatic Server Discovery (App >= V9.5) 12-23-2025
 - PCGameConsole V9.2 - Enhancements/Steam games-related fixes 11-13-2025
