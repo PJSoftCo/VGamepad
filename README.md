@@ -32,6 +32,21 @@ Help/Instruction: [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyR
 
 **You cannot use the Android app if your phone has an ad blocker installed and activated.**
 
+Some antivirus products (including Microsoft Defender) may incorrectly flag VGamepadManager.exe as malware (for example Trojan:Win32/Wacatac). This is a false positive. The file is a legitimate part of PCGameConsole / VGamepad and is not a virus.
+
+If Windows quarantines or blocks it:
+
+Open Windows Security → Virus & threat protection → Protection history
+Find the quarantined item and choose Restore / Allow
+Add an exclusion for the install folder so it does not happen again:
+Windows Security → Virus & threat protection → Manage settings
+Under Exclusions, select Add or remove exclusions → Add an exclusion → Folder
+Choose:
+C:\Program Files (x86)\PJSoftCo\PCGameConsole
+After whitelisting that folder, reinstall or restore the app if needed, then run PCGameConsole again.
+
+We have also submitted this detection to Microsoft as a false positive. Signing and reputation updates can take time; the exclusion above is the reliable fix on your PC.
+
 **Please find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
 
 [Our Official Website](https://pjsoftco.com)/[Discord](https://discord.gg/ZcAuAJp8py)/[Twitch](https://www.twitch.tv/pjsoftco)/[TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw)
