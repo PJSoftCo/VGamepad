@@ -26,12 +26,12 @@ Help/Instruction: [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyR
 
 **PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN)**
 **AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5321)**
-
+---------------------------------------------------------------------------------------------
 **Joycon (Cemuhook) data is transferred on IP:127.0.0.1/Port:26760 (Tested playing "Just Dance 2021" on Yuzu emulator with VGamepad in PS mode).
  Joy-Con turns itself off every time you reopen the app, so don't forget to turn it back on if you want to use it!**
-
+---------------------------------------------------------------------------------------------
 **You cannot use the Android app if your phone has an ad blocker installed and activated.**
-
+---------------------------------------------------------------------------------------------
 Some antivirus products (including Microsoft Defender) may incorrectly flag VGamepadManager.exe as malware (for example Trojan:Win32/Wacatac). This is a false positive. The file is a legitimate part of PCGameConsole / VGamepad and is not a virus.
 
 If Windows quarantines or blocks it:
@@ -46,7 +46,7 @@ C:\Program Files (x86)\PJSoftCo\PCGameConsole
 After whitelisting that folder, reinstall or restore the app if needed, then run PCGameConsole again.
 
 We have also submitted this detection to Microsoft as a false positive. Signing and reputation updates can take time; the exclusion above is the reliable fix on your PC.
-
+----------------------------------------------------------------------------------------------
 **Please find "Privacy Policy" & "Terms and Conditions" at the end of this document.**
 
 [Our Official Website](https://pjsoftco.com)/[Discord](https://discord.gg/ZcAuAJp8py)/[Twitch](https://www.twitch.tv/pjsoftco)/[TikTok](https://www.tiktok.com/@pjsoftco)/[Facebook](https://www.facebook.com/pjsoftco)/[Instagram](https://www.instagram.com/pjsoftco/)/[YouTube](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw)
