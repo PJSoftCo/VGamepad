@@ -12,6 +12,9 @@ One Time Purchase: [**IOS**](https://apps.apple.com/app/id1454180100) - [**Andro
 (MAC)
 [VGamepad-Server-Mac.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/c02a2b1cea62e24ea2df0414d301992d64dfeaca/VGamepad-Server-Mac.zip)
 
+(Linux)
+[VGamepad-Server.deb](https://pjsoftco.com/downloads/vgamepad-server_1.0.27_64.deb)
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Help/Instruction: [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyRDYVqXw) - [(PDF)](https://github.com/PJSoftCo/VGamepad/blob/master/VGamepad-Instruction.pdf)
