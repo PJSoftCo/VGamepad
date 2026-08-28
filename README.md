@@ -6,13 +6,18 @@ One Time Purchase: [**IOS**](https://apps.apple.com/app/id1454180100) - [**Andro
 
 **2. Server-Side Software:**
 
-Windows <img width="36" height="36" alt="icons8-windows-11-48" src="https://github.com/user-attachments/assets/d112ca6d-90e1-448c-8ddc-34645e9f0739" /> 
-[VGamepad-Server.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/VGamepad-Server_V6.6.zip) [PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.5.zip)
+ <img width="30" height="30" alt="icons8-windows-11-48" src="https://github.com/user-attachments/assets/9e485df1-e9be-450d-809a-247d460a5653" /> Windows
 
-MAC <img width="36" height="36" alt="icons8-mac-os-logo-48" src="https://github.com/user-attachments/assets/df07a061-892a-46a6-b4dd-72c91da9db90" /> 
+[VGamepad-Server.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/VGamepad-Server_V6.6.zip)
+
+[PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.5.zip)
+
+ <img width="30" height="30" alt="mac_15246" src="https://github.com/user-attachments/assets/3e4050f4-6ce1-42ec-929e-e743e859da6a" /> MAC
+
 [VGamepad-Server-Mac.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/c02a2b1cea62e24ea2df0414d301992d64dfeaca/VGamepad-Server-Mac.zip)
 
-Linux <img width="36" height="36" alt="icons8-linux-48" src="https://github.com/user-attachments/assets/88be38de-9b8d-40e0-a97c-0b2e26d827ff" /> 
+ <img width="30" height="30" alt="icons8-linux-48" src="https://github.com/user-attachments/assets/88be38de-9b8d-40e0-a97c-0b2e26d827ff" /> Linux
+
 [VGamepad-Server.deb](https://pjsoftco.com/downloads/vgamepad-server_1.0.27_64.deb)
 
 ----------------------------------------------------------------------------------------------------------------------------------
