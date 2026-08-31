@@ -1,4 +1,4 @@
-**1. Xbox/PS/JoyCon controller for PC:**
+**1. Xbox/PS/JoyCon/Remote controller for PC:**
 
 Subscription Based: [**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
 
