@@ -31,6 +31,7 @@ Help/Instruction: [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyR
 ![photo_2024-05-16_11-58-02](https://github.com/PJSoftCo/VGamepad/assets/4211206/2851bf9f-f7b3-42b2-81cc-8ebd6b6113e0)
 
 ![BodyTracker](https://github.com/PJSoftCo/VGamepad/assets/4211206/fd1e7738-6cac-406f-945e-17c32cf86d69)
+Body Tracker is only available on iPhone X and later models.
 
 **PLEASE MAKE SURE YOUR PC/LAPTOP AND PHONE ARE CONNECTED TO THE SAME NETWORK (WIFI/LAN)**
 **AND YOUR FIREWALL/SECURITY SUITE IS NOT BLOCKING THE COMMUNICATION (Port 5321)**
