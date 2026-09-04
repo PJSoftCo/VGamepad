@@ -19,6 +19,7 @@ One Time Purchase: [**IOS**](https://apps.apple.com/app/id1454180100) - [**Andro
  <img width="30" height="30" alt="icons8-linux-48" src="https://github.com/user-attachments/assets/88be38de-9b8d-40e0-a97c-0b2e26d827ff" /> Linux
 
 [VGamepad-Server.deb](https://pjsoftco.com/downloads/vgamepad-server_1.0.27_64.deb)
+
 [VGamepad-Server.AppImage](https://pjsoftco.com/downloads/VGamepad-1.0.27-x86_64.AppImage)
 
 ----------------------------------------------------------------------------------------------------------------------------------
