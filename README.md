@@ -118,6 +118,7 @@ PJSoftCo)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
+- VGamepad-Server.Linux V1.3 - Major Enhancements/Body Tracker simulator (App >= V10 - App re-install recommended) 08-05-2026
 - PCGameConsole V9.5 - Major Enhancements/Body Tracker simulator (App >= V10 - App re-install recommended) 08-05-2026
 - VGamepad-Server V6.6 - Major Enhancements/Body Tracker simulator (App >= V10 - App re-install recommended) 08-05-2026
 - PCGameConsole V9.3 - Automatic Server Discovery (App >= V9.5) 12-23-2025
