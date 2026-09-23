@@ -8,9 +8,9 @@ One Time Purchase: [**IOS**](https://apps.apple.com/app/id1454180100) - [**Andro
 
  <img width="30" height="30" alt="icons8-windows-11-48" src="https://github.com/user-attachments/assets/9e485df1-e9be-450d-809a-247d460a5653" /> Windows
 
-[VGamepad-Server.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/VGamepad-Server_V6.6.zip)
+[VGamepad-Server.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/VGamepad-Server_V6.7.zip)
 
-[PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.5.zip)
+[PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.6.zip)
 
  <img width="30" height="30" alt="mac_15246" src="https://github.com/user-attachments/assets/3e4050f4-6ce1-42ec-929e-e743e859da6a" /> MAC
 
