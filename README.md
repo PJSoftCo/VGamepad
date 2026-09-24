@@ -28,7 +28,7 @@ Help/Instruction: [(YouTube)](https://www.youtube.com/channel/UC17huxoiAupN1kJyR
 
 [Why VGamepad?](https://youtu.be/jvA4v_bZ43I?si=eNWD3Qi1m6qWCGoo)
 
-<img width="1254" height="1254" alt="VGamepadPoster" src="https://github.com/user-attachments/assets/8ebe414a-6630-4526-a256-d386aef48caa" />
+<img width="1254" height="1254" alt="IMG_5871" src="https://github.com/user-attachments/assets/e9182588-f247-4c4e-b872-539a1a016e6d" />
 
 ![photo_2024-05-16_11-58-02](https://github.com/PJSoftCo/VGamepad/assets/4211206/2851bf9f-f7b3-42b2-81cc-8ebd6b6113e0)
 
