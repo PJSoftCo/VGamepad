@@ -119,7 +119,7 @@ PJSoftCo)
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
 - PCGameConsole V9.6 - Bluetooth connectivity added. (App >= V10.4) 09-23-2026
-- VGamepad-Server V6.7 - Bluetooth connectivity added/UI updates. (App >= V10.4) 09-29-2026
+- VGamepad-Server V6.8 - Bluetooth connectivity added/UI updates. (App >= V10.4) 09-29-2026
 - VGamepad-Server.Linux V1.2 - Bluetooth connectivity added. (App >= V10.4) 09-23-2026
 - PCGameConsole V9.5 - Major Enhancements/Body Tracker simulator (App >= V10 - App re-install recommended) 08-05-2026
 - VGamepad-Server V6.6 - Major Enhancements/Body Tracker simulator (App >= V10 - App re-install recommended) 08-05-2026
