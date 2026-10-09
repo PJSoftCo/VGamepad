@@ -10,7 +10,7 @@ One Time Purchase: [**IOS**](https://apps.apple.com/app/id1454180100) - [**Andro
 
 [VGamepad-Server.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/VGamepad-Server_V6.8.zip)
 
-[PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.6.zip)
+[PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/master/PCGameConsole_V9.7.zip)
 
  <img width="30" height="30" alt="mac_15246" src="https://github.com/user-attachments/assets/3e4050f4-6ce1-42ec-929e-e743e859da6a" /> MAC
 
@@ -121,7 +121,7 @@ PJSoftCo)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
-- PCGameConsole V9.6 - Bluetooth connectivity added. (App >= V10.4) 09-23-2026
+- PCGameConsole V9.7 - Bluetooth connectivity added/Game mode no longer stops Bluetooth service. (App >= V10.4) 10-09-2026
 - VGamepad-Server V6.8 - Bluetooth connectivity added/UI updates. (App >= V10.4) 09-29-2026
 - VGamepad-Server.Linux V1.2 - Bluetooth connectivity added. (App >= V10.4) 09-23-2026
 - PCGameConsole V9.5 - Major Enhancements/Body Tracker simulator (App >= V10 - App re-install recommended) 08-05-2026
