@@ -1,10 +1,12 @@
-**1. Xbox/PS/JoyCon/Remote controller for PC:**
+<img width="100" height="54" alt="VGamepad Bluetooth and Wi‑Fi Launch" src="https://github.com/user-attachments/assets/8ca56d91-09bf-40f0-bf99-e2b18d3e3525" />
+ Xbox/PS/JoyCon/Remote controller for PC:
 
 Subscription Based: [**IOS**](https://apps.apple.com/app/id1477007195) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.VGamepadFree)
 
 One Time Purchase: [**IOS**](https://apps.apple.com/app/id1454180100) - [**Android**](https://play.google.com/store/apps/details?id=com.companyname.VGamepad)
 
-**2. Server-Side Software:**
+<img width="150" height="100" alt="Modern Desktop and Laptop Setup" src="https://github.com/user-attachments/assets/9529b656-270a-41d0-ba54-b6f057eda886" />
+Server-Side Software:
 
  <img width="30" height="30" alt="icons8-windows-11-48" src="https://github.com/user-attachments/assets/9e485df1-e9be-450d-809a-247d460a5653" /> Windows
 
