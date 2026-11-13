@@ -125,6 +125,7 @@ PJSoftCo)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 **What's new:**
+- VGamepad-Server.Mac V2.0 - First fully functional Mac version. (App >= V10.4) 11-13-2026
 - PCGameConsole V9.7 - Bluetooth connectivity added/Game mode no longer stops Bluetooth service. (App >= V10.4) 10-09-2026
 - VGamepad-Server V6.8 - Bluetooth connectivity added/UI updates. (App >= V10.4) 09-29-2026
 - VGamepad-Server.Linux V1.2 - Bluetooth connectivity added. (App >= V10.4) 09-23-2026
