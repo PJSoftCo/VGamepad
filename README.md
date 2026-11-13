@@ -18,7 +18,7 @@ Server-Side Software:
 
  <img width="30" height="30" alt="mac_15246" src="https://github.com/user-attachments/assets/3e4050f4-6ce1-42ec-929e-e743e859da6a" /> MAC
 
-[VGamepad-Server-Mac.zip](https://raw.githubusercontent.com/PJSoftCo/VGamepad/c02a2b1cea62e24ea2df0414d301992d64dfeaca/VGamepad-Server-Mac.zip)
+[VGamepad-Server-Mac.tar.gz](https://pjsoftco.com/downloads/VGamepad-Mac-arm64.tar.gz)
 
  <img width="30" height="30" alt="icons8-linux-48" src="https://github.com/user-attachments/assets/88be38de-9b8d-40e0-a97c-0b2e26d827ff" /> Linux
 
